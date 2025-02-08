@@ -1,0 +1,6 @@
+[
+    {
+        "displayName": "Your Name",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Your Name\nN:Al-Ghifari;;;\nTEL;waid=6281234567890:6281234567890\nEMAIL;TYPE=WORK:example@gmail.com\nADR;TYPE=HOME:;;11 Naitōmachi;Shinjuku City;Tokyo 160-0014;Jepang\nURL;TYPE=WORK:https://www.example.my.id\nORG:Science, Technology, Engineering\nTITLE:Science, Technology, Engineering\nNOTE:busy.\nEND:VCARD"
+    }
+]
